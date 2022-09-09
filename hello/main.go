@@ -46,5 +46,8 @@ func main() {
 	var nation = "Korea"
 	fmt.Println(nation[0])
 	fmt.Println(nation[1])
+	fmt.Println(nation[2])
+	fmt.Println(nation[3])
+	fmt.Println(nation[4])
 
 }
